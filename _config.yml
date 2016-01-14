@@ -9,7 +9,7 @@
 title: MEZUKA BLOG
 email: mezuka@mezuka.com
 description: >
-  This is a blog from Mezuka engineers. It was created in purpose of share development experience.
+  This is a blog by Mezuka engineers. It was created in purpose of sharing development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mezuka.github.io" # the base hostname & protocol for your site
 twitter_username: mezuka
