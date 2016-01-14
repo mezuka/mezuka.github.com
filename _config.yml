@@ -11,7 +11,7 @@ email: mezuka@mezuka.com
 description: >
   This is a blog from Mezuka engineers. It was created in purpose of share development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://mezuka.github.io" # the base hostname & protocol for your site
 twitter_username: mezuka
 github_username:  mezuka
 
